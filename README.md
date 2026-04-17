@@ -29,6 +29,4 @@ pip install pyttsx3 SpeechRecognition requests
 Run the program:
 python finalppl.py
 
-## Guided By
 
-Priyanka Mam
