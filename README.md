@@ -1,18 +1,34 @@
-# 🤖 Smart Voice Assistant
+# Smart Voice Assistant (Python)
 
-## 📌 Description
+## Description
 
-A Python-based assistant with voice and text interaction.
+This is a Python-based smart assistant that supports both voice and text interaction. It helps users with learning, calculations, and real-time information.
 
-## 🚀 Features
+## Features
 
-* Voice + Text
-* Weather (real-time)
-* Games (Riddle, Quiz)
+* Voice and text interaction
+* Real-time weather
+* Riddle and quiz games
 * Calculator
-* Study & Interview Help
+* Study and interview guidance
+* System commands
 
-## ▶️ Run
+## Technologies Used
 
+* Python
+* Tkinter
+* pyttsx3
+* SpeechRecognition
+* requests
+
+## How to Run
+
+Install required libraries:
 pip install pyttsx3 SpeechRecognition requests
+
+Run the program:
 python finalppl.py
+
+## Guided By
+
+Priyanka Mam
