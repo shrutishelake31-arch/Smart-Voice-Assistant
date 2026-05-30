@@ -1,4 +1,4 @@
-🎙️ Smart Voice Assistant
+#  Smart Voice Assistant
 
 A Smart Voice Assistant developed using Python that can understand voice commands and perform various tasks such as opening websites, searching information, telling the current time, and responding through speech. This project demonstrates the use of speech recognition and text-to-speech technologies to create an interactive virtual assistant.
 
