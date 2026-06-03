@@ -4,17 +4,17 @@ A Smart Voice Assistant developed using Python that can understand voice command
 
 🚀 Features
 
-- 🎤 Voice Command Recognition
-- 🔊 Text-to-Speech Responses
-- 🌐 Open Websites (Google, YouTube, etc.)
-- 🔍 Search Information on the Web
-- 🕒 Tell Current Time and Date
-- 🎵 Play Music
-- 📂 Open Applications
-- 📖 Answer Basic Questions
-- 🤖 Interactive User Experience
+-  Voice Command Recognition
+-  Text-to-Speech Responses
+-  Open Websites (Google, YouTube, etc.)
+-  Search Information on the Web
+-  Tell Current Time and Date
+-  Play Music
+-  Open Applications
+-  Answer Basic Questions
+-  Interactive User Experience
 
-🛠️ Technologies Used
+# Technologies Used
 
 - Python
 - SpeechRecognition
@@ -25,7 +25,7 @@ A Smart Voice Assistant developed using Python that can understand voice command
 - Wikipedia
 - PyAudio
 
-📦 Installation
+# Installation
 
 Clone the Repository
 
