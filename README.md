@@ -2,7 +2,7 @@
 
 A Smart Voice Assistant developed using Python that can understand voice commands and perform various tasks such as opening websites, searching information, telling the current time, and responding through speech. This project demonstrates the use of speech recognition and text-to-speech technologies to create an interactive virtual assistant.
 
-🚀 Features
+#Features
 
 -  Voice Command Recognition
 -  Text-to-Speech Responses
@@ -35,11 +35,11 @@ Install Required Packages
 
 pip install SpeechRecognition pyttsx3 pyaudio wikipedia
 
-▶️ How to Run
+# How to Run
 
 python assistant.py
 
-🎯 Example Commands
+# Example Commands
 
 - Open Google
 - Open YouTube
@@ -48,7 +48,7 @@ python assistant.py
 - Play music
 - Tell me about Artificial Intelligence
 
-💡 Future Enhancements
+#Future Enhancements
 
 - Weather Updates
 - News Headlines
@@ -56,7 +56,7 @@ python assistant.py
 - Multi-Language Support
 - Smart Home Device Control
 
-🎓 Learning Outcomes
+# Learning Outcomes
 
 - Python Programming
 - Speech Recognition
